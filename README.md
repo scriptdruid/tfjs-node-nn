@@ -14,4 +14,4 @@ cd local-server
 node server.js
 ```
 
-Go to : <http://localhost:81/predict.html>
+Go to : <http://localhost:81/predict-with-tfjs.html>
